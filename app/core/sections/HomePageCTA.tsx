@@ -41,7 +41,7 @@ export default function Home() {
                 size="lg"
                 className="bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white px-8 py-6 text-base font-bold rounded-xl shadow-lg shadow-orange-500/30 transition-all duration-300 hover:scale-105 active:scale-95"
               >
-                <Link href="https://www.bmoeliteperformance.com/booking">
+                <Link href="https://bmo-elite-performance.statstak.io/index/bmo-elite-performance">
                   Book Your Session
                 </Link>
               </Button>

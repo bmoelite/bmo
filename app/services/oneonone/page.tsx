@@ -31,7 +31,7 @@ export default function Oneonone() {
             asChild
             className="w-full h-fit rounded bg-orange-500 px-12 py-3 text-sm font-medium text-white shadow hover:text-white hover:bg-orange-600 focus:outline-none focus:ring active:text-orange-500 sm:w-auto"
           >
-            <Link href="https://www.bmoeliteperformance.com/booking">
+            <Link href="https://bmo-elite-performance.statstak.io/index/bmo-elite-performance">
               Book Now
             </Link>
           </Button>

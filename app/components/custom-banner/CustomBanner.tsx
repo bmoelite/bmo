@@ -32,7 +32,7 @@ const CustomBanner = () => {
         </div>
 
         <div className="flex items-center gap-3">
-          <Link href="https://book.squareup.com/classes/q48wvj137cflkc/location/L21F7515YPQAE/classes?buttonTextColor=ffffff&color=000000&locale=en&referrer=so">
+          <Link href="https://bmo-elite-performance.statstak.io/index/bmo-elite-performance">
             <Button
               size="sm"
               className="bg-slate-950 hover:bg-white hover:text-slate-950 text-white font-bold px-6 py-2 rounded-full transition-all duration-300 shadow-lg border-none text-xs uppercase tracking-widest"
@@ -98,7 +98,7 @@ const CustomBanner = () => {
                     asChild
                     className="bg-orange-500 hover:bg-orange-600 text-white font-bold flex-1 py-6 rounded-xl"
                   >
-                    <Link href="https://book.squareup.com/appointments/q48wvj137cflkc/location/L21F7515YPQAE/services?buttonTextColor=ffffff&color=000000&locale=en&referrer=so&team_member_id=TMRiMYpU5WVf9A8W">
+                    <Link href="https://bmo-elite-performance.statstak.io/index/bmo-elite-performance">
                       Book Online Now
                     </Link>
                   </Button>

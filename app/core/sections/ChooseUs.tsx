@@ -126,7 +126,7 @@ export const ChooseUs = () => {
                 size="lg"
                 className="bg-orange-500 hover:bg-orange-600 text-white font-bold px-10 py-7 rounded-xl transition-all hover:shadow-[0_0_20px_rgba(249,115,22,0.4)]"
               >
-                <Link href="https://www.bmoeliteperformance.com/booking">
+                <Link href="https://bmo-elite-performance.statstak.io/index/bmo-elite-performance">
                   Book Training
                 </Link>
               </Button>

@@ -172,7 +172,7 @@ export default function Navigation() {
                 <AiFillTikTok className={socialIconClass} size={18} />
               </Link>
               <Link 
-                href="/booking"
+                href="https://bmo-elite-performance.statstak.io/index/bmo-elite-performance"
                 className="ml-2 px-4 py-2 bg-orange-500 hover:bg-orange-600 rounded-full font-bold text-sm transition-colors"
               >
                 Book Now
@@ -265,7 +265,7 @@ export default function Navigation() {
                 ),
               )}
               <Link 
-                href="/booking"
+                href="https://bmo-elite-performance.statstak.io/index/bmo-elite-performance"
                 className="mt-4 px-8 py-3 bg-orange-500 hover:bg-orange-600 rounded-full font-bold transition-colors"
                 onClick={closeMobileMenu}
               >

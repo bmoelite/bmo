@@ -28,7 +28,7 @@ const COACHES_DATA = [
     specialty: "Baseball",
     bio: "Miguel Olivo brings over 14 years of experience as a Major League Baseball catcher, having played professionally in the United States, Mexico, and the Dominican Republic. He now uses his lifetime of knowledge and love for the game to train the next generation of athletes with the same passion, discipline, and attention to detail that defined his career.",
     imageUrl: "/images/miguel.webp",
-    bookLink: "https://bmo-elite-performance.square.site/"
+    bookLink: "https://bmo-elite-performance.statstak.io/index/bmo-elite-performance"
   },
   {
     id: 2,
@@ -37,7 +37,7 @@ const COACHES_DATA = [
     specialty: "Baseball and Softball",
     bio: "Tony brings a strong and focused background in softball, with years of experience training and developing athletes in: Pitching, Hitting, and Speed & Agility.",
     imageUrl: "/images/tonyallen.webp",
-    bookLink: "https://aandtathletictraining.setmore.com/book?step=time-slot&products=s95b03081fdc460a143e7fc96d13ac1881765204e&type=service&staff=ra7c3031d2565a742479c5c21769ac6190b26f2de-d&staffSelected=true"
+    bookLink: "https://bmo-elite-performance.statstak.io/index/bmo-elite-performance"
   },
 ];
 
